@@ -5,3 +5,5 @@ please acknowledge that this isnt some hightech program that was created by an c
 so it is posible that its not perfect and that you will encunter bugs.
 i will try to maintain this project.
 
+# DO NOT DELETE done.txt AND notdone.txt !!!
+
